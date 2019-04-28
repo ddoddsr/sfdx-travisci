@@ -11,7 +11,4 @@ public with sharing class myclass {
 		//Checking 192.55.192.51nothing to see here ... move along
 	}
 
-	public Number getMath( number num1 ) {
-		return num * 2;
-	}
 }
